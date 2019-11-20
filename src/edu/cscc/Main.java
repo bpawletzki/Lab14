@@ -4,7 +4,11 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class Main {
-
+    /**
+     * Lab 14 – Sorting Algorithms
+     * @author Brian Pawletzki
+     * @version 2019-11-19T1950
+     */
     // Code is working and tested, switched to the file bigsurnames.ser
     private static final String SERFNAME = "bigsurnames.ser";
 
